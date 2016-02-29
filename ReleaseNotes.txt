@@ -1,0 +1,18 @@
+*Release Notes for Computer Organisation Lab
+1. Commit Id of source : be48a8
+2.Version Number of the Lab : 1.0
+3.Details of new features added  :
+    - Feature no. :
+    - Description :
+    - Test Case links :
+4.Defect link of resolved defects  :
+    - https://github.com/software-engineering-project-1/computer-organisation-lab-exp5-team1/issues
+5.Tests conducted with results : 
+    - https://github.com/software-engineering-project-1/computer-organisation-lab-exp5-team1/blob/master/Documents/Test%20Cases%20MIPS1.xlsx
+6.Environment Settings :
+OS : Windows 7, Linux
+    - Browsers : Firefox, Chrome
+    - Bandwidth : 100Mbps
+    - Hardware Configuration : 8GB RAM
+    - Processor : i5
+
